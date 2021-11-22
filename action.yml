@@ -1,6 +1,6 @@
 # action.yml
-name: 'Healthy Checkup'
-author: 'Justin Knight'
+name: 'Delayed Check'
+author: 'Angela Robertson'
 branding:
     icon: 'clock'  
     color: 'blue'
