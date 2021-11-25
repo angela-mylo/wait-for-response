@@ -27,7 +27,7 @@ Interval between polling in ms. Default `"200"`
 
 ## Example usage
 ```
-uses: angela-mylo/wait_for_response@master
+uses: angela-mylo/wait-for-response@1.0.2
 with:
   url: 'http://localhost:8081/'
   responseCode: 200
